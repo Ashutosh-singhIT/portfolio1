@@ -21,7 +21,7 @@ const Footer = () => {
       </div>
       <hr className="footer-separator" />
       <div className="footer-bottom">
-        <p className="footer-bottom-left">© 2025 Ashutosh Singh. All rights reserved.</p>
+        <p className="footer-bottom-left">© 2026 Ashutosh Singh. All rights reserved.</p>
         <div className="footer-bottom-right">
             <p>Term of Services</p>
             <p>Privacy Policy</p>

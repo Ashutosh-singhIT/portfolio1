@@ -11,7 +11,7 @@ const Hero = () => {
       <p>I am a B.Tech Computer Science student and a Full Stack Developer from Delhi, India. Currently, I am pursuing a Java Full Stack Developer course from IT-Vedant and actively looking for a fresher job opportunity. </p>
       <div className="hero-action">
         <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect with me</AnchorLink></div>
-        <a href="/Ashutosh_Singh_Resume.pdf" download className="hero-resume">My Resume</a>
+        <a href="/Ashutosh_Singh_JavaFullStack_Resume.pdf" download className="hero-resume">My Resume</a>
 
       </div>
     </div>
